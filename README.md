@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Liza
 - 👀 I’m interested in Web Development
-- 🌱 I’m currently learning Web Development,C/C++
+- 🌱 I’m currently learning Web Development , C/C++
 - 💞️ I’m looking to collaborate on projects
 - 📫 For reaching me:-
    liza261204@gmail.com
