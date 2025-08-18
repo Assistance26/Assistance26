@@ -8,6 +8,7 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 
 ## 🛠️ Skills & Technologies
 
+### 💻 Programming & Web
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
@@ -15,9 +16,13 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-00758F?style=for-the-badge&logo=mysql&logoColor=white)
+
+### 🤖 AI & ML
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=python&logoColor=white)
 ![Ollama](https://img.shields.io/badge/Ollama-008080?style=for-the-badge&logo=python&logoColor=white)
+
+### 🛠️ DevOps & Cloud
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
@@ -27,7 +32,7 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 
 ## 🌱 Currently Exploring
 - **DevOps practices:** Docker, CI/CD pipelines, Linux, AWS EC2, automation  
-- Advanced AI/ML integration with LangChain and local LLMs  
+- **Advanced AI/ML:** LangChain, local LLMs, TensorFlow.js enhancements  
 
 ---
 
@@ -37,9 +42,12 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 
 ---
 
-> A perfectionist at heart, I am dedicated to delivering **high-quality solutions**, continuously learning to improve my craft, and bringing my **passion, creativity, and technical skills** to impactful projects.
+## 💡 About Me
+> A perfectionist at heart, I am dedicated to delivering **high-quality solutions**, continuously learning to improve my craft, and bringing my **passion, creativity, and technical skills** to impactful projects.  
+> I am a **full-stack developer**, open to **asynchronous remote roles**, and eager to contribute to innovative projects.
 
-<!--
-Assistance26/Assistance26 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+---
+
+### 📈 GitHub Stats
+![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Assistance26&show_icons=true&theme=tokyonight)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Assistance26&layout=compact&theme=tokyonight)
