@@ -55,9 +55,10 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 
 ## 💖 Coding & Coffee Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="150" alt="Coding and Coffee Animation"/>
+  <img src="https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif" width="150" alt="Coding and Coffee Animation"/>
 </p>
 *Fueling code with coffee ☕💻*
+
 ---
 
 ## 🔗 Let's Connect
