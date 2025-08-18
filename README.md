@@ -1,5 +1,4 @@
 # Hi there, I'm Liza 👋
-
 **Full-Stack Developer | AI Enthusiast | Final-Year Student**  
 
 Welcome to my GitHub! I build **secure, responsive, and AI-powered web applications** with a focus on scalability, performance, and user experience.
@@ -43,7 +42,7 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 ---
 
 ## 📫 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liza-2322a7257)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/liza-2322a7257)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:liza261204@gmail.com)
 
 ---
@@ -54,14 +53,13 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 
 ---
 
-## 🐙 Animated Octocat
+## 🐙 Friendly Octocat
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Assistance26/animated-octocat/main/waving-octocat.svg" width="150" alt="Animated Octocat"/>
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Waving Octocat"/>
 </p>
 *Friendly Octocat waving to recruiters 👋*
 
 ---
 
 ## 🔗 Let's Connect
-I’m actively looking for **remote/asynchronous opportunities** in full-stack development, AI integration, and DevOps automation. Open to collaborations, mentorship, and impactful projects.  
-
+I’m actively looking for **remote/asynchronous opportunities** in full-stack development, AI integration, and DevOps automation. Open to collaborations, mentorship, and impactful projects.
