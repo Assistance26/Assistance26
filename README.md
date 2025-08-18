@@ -1,6 +1,6 @@
 # Hi there, I'm Liza 👋
 
-**Full-Stack Developer | AI Enthusiast | Final-Year Student**  
+**Full-Stack Developer | AI Enthusiast | Final-Year Student | Open to Remote Roles**  
 
 Welcome to my GitHub! I build **secure, responsive, and AI-powered web applications** with a focus on scalability, performance, and user experience.
 
@@ -49,5 +49,11 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 ---
 
 ### 📈 GitHub Stats
-![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Assistance26&show_icons=true&theme=tokyonight)
+![Liza's GitHub stats](https://github-readme-stats.vercel.app/api?username=Assistance26&show_icons=true&theme=tokyonight&count_private=true&hide_title=false&include_all_commits=true&line_height=25)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Assistance26&layout=compact&theme=tokyonight)
+
+---
+
+### 🎬 Fun & Animations
+![Coding Animation](https://media.giphy.com/media/3o7TKxj9nBnpDJk7X6/giphy.gif)  
+![AI Animation](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
