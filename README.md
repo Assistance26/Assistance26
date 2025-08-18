@@ -55,5 +55,5 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 ---
 
 ### 🎬 GitHub Fun Animation
-![Octocat Typing](https://media.giphy.com/media/MDJ9IbxxvDUQM/giphy.gif)  
-*Keeping my GitHub active, one commit at a time!* 🐙
+![Animated Octocat](https://octodex.github.com/images/stormtrooper_octocat.png)  
+*My Octocat is always coding — just like me!* 🐙
