@@ -53,12 +53,11 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 
 ---
 
-## 🐙 Friendly Octocat
+## 💖 Coding & Coffee Vibes
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="150" alt="Waving Octocat"/>
+  <img src="https://media.giphy.com/media/L05HgB2h6qICDs5Sms/giphy.gif" width="150" alt="Coding and Coffee Animation"/>
 </p>
-*Friendly Octocat waving to recruiters 👋*
-
+*Fueling code with coffee ☕💻*
 ---
 
 ## 🔗 Let's Connect
