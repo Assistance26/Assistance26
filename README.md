@@ -53,12 +53,16 @@ Welcome to my GitHub! I build **secure, responsive, and AI-powered web applicati
 
 ---
 
+## 🏆 GitHub Trophies
+[![trophy](https://github-profile-trophy.vercel.app/?username=Assistance26&theme=tokyonight&row=1&column=6)](https://github.com/ryo-ma/github-profile-trophy)
+
+---
+
 ## 💖 Coding & Coffee Vibes
 <p align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExOXBlMTk2dXgyM3RqcXZkdjdydDBtcWE1ZGN0dnk3Njg0N29jb2xlbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/e9BUxDjZUk6dZeicZl/giphy.gif" width="150" alt="Coding and Coffee Animation"/>
 </p>
 *Fueling code with coffee ☕💻*
-
 
 ---
 
